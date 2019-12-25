@@ -1,0 +1,15 @@
+.image {
+  width: 10em;
+  height: 10em;
+  background-color: aqua;
+}
+
+.TweetCard {
+  width: 15em;
+  height: 10em
+  margin: 5rem;
+  box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+  text-align: center;
+  background-color: white;
+  border-radius: 3px;
+}
